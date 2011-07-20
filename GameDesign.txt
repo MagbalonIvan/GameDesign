@@ -1,0 +1,8 @@
+  
+Where do I Store strings? What's an efficient way of loading them?
+
+I picked this kind of article or post because i find it interesting because these guy had a problem with his Datas/strings where to store his Game's textual concept because He don't know where to save it, where to save his data/strings and will be efficiently load by a Computer. I just read the comments below the blog/article that because maybe his Datas/strings has a requirements for portability, formatting, or speed And need an specific Software/Hardware for his Dialogues and Texts.
+I had this kind of problem that i don't even know what is the problem of my data because of the hardware that I used and finally my friend told me that the storage ware I used for my data is not suitable for my datas that's why Im encountering errors. I changed may data storage device/wares to avoid problems and I make sure that the storage device/wares I used is suitable for my datas.
+
+The Link: http://gamedev.stackexchange.com/questions/14936/where-do-i-store-strings-whats-an-efficient-way-of-loading-them
+
